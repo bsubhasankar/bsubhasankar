@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://bsubhasankar.github.io/portfolio/#contact](https://bsubhasankar.github.io/portfolio/#contact)
+- 👨‍💻 All of my projects are available at [https://bsubhasankar.github.io/portfolio](https://bsubhasankar.github.io/portfolio/)
 
 - 💬 Ask me about **ReactJS,JavaScript**
 
