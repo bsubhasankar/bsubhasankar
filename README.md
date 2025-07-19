@@ -10,7 +10,7 @@ I'm a passionate ServiceNow Developer with a knack for building practical, user-
 
 🌱 I’m always learning and currently exploring advanced Flow Designer techniques and AI features in ServiceNow.
 
-portfolio https://bsubhasankar.github.io/portfolio/
+portfolio https://bsubhasankar.github.io/my-portfolio/
 
 📫 You can reach me at bsubhasankar.23@gmail.com.
 
@@ -39,8 +39,7 @@ portfolio https://bsubhasankar.github.io/portfolio/
 🔗 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/subhasankar-badatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhasankar-badatya" height="25" width="35" /></a>
-<a href="https://instagram.com/subha_sankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subha_sankar" height="25" width="35" /></a>
-</p>
+
 
 📊 My GitHub Stats
 <p align="center">
